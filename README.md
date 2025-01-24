@@ -1,1 +1,1 @@
-# Other_Projects
+# Other_Projects: Arythm + Strat_AI
